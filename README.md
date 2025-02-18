@@ -128,8 +128,6 @@ You can test the API endpoints using Postman or any other API testing tool. A Po
    - `PORT`: Will be auto-assigned by Render
    - `MONGODB_URI`: Your MongoDB Atlas connection string
    - `JWT_SECRET`: Your JWT secret key
-   - `JWT_EXPIRATION`: Token expiration time (e.g., `24h`)
-   - `NODE_ENV`: `production`
 6. Deploy the service
 
 ## Security Features
